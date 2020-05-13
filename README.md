@@ -40,7 +40,7 @@
     </details> </h2> 
   </section> 
   <footer> 
-   <img src="html" alt="Web Design For Everyone"> 
+   <img src="vk.jpg" alt="Web Design For Everyone"> 
    <br> This page was created by saikrishna and Collen Van Lent 
    <br> To learn more visit 
    <a href="http://www.intro-webdesign.com">intro to web design</a> 
